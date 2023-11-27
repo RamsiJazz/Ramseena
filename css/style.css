@@ -1284,3 +1284,18 @@ input[type=range]::-ms-track {
 .course{
     border-right: solid 1px;
 }
+.foot-social{
+    border-radius: 100%;
+    border: none;
+    background-color: white;
+}
+.foot-social-img{
+    border-radius: 100%;
+    cursor: pointer;
+}
+.foot-social-img:hover{
+    border: 1px solid grey;
+}
+.li-social{
+    display: inline-block;
+}
